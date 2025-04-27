@@ -1,7 +1,7 @@
 # BlinkIT_Data_Analysis
 
 BlinkIT Grocery Data - Profit Analysis
-This project provides a comprehensive profit analysis on BlinkIT grocery retail data using SQL and Python. The goal is to identify profit drivers and recommend strategies to increase profitability by up to 34%.
+This project provides a comprehensive profit analysis on BlinkIT grocery retail data using SQL. The goal is to identify profit drivers and recommend strategies to increase profitability by up to 34%.
 Dataset
 Source: BlinkIT Grocery Data (CSV format)
 Contents: Item details, outlet info, and total sales
